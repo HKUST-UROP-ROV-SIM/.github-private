@@ -1,3 +1,4 @@
-# How to start with the simulation?
-1. Please visit [https://github.com/HKUST-UROP-ROV-SIM/bluerov2-heavy-sim](https://github.com/HKUST-UROP-ROV-SIM/bluerov2-heavy-sim/blob/main/docker/README.md)
-2. Follow the instructions provided by the README
+# Simulation
+For doing simulation, please visit [https://github.com/HKUST-UROP-ROV-SIM/bluerov2_heavy_sim](https://github.com/HKUST-UROP-ROV-SIM/bluerov2_heavy_sim).
+# Camera calibration for simulation
+For calibrating camera used in simulation, please visit [https://github.com/HKUST-UROP-ROV-SIM/gazebo_camera_calibration](https://github.com/HKUST-UROP-ROV-SIM/gazebo_camera_calibration).
